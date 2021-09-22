@@ -1,14 +1,16 @@
-#AUTOR: RIKIO ANZAI
+<h1>PROJETO DO SISTEMA PARA INTERNET</h1>
+  
+<p>AUTOR: RIKIO ANZAI</p>
 
 <p float="left">
-<img src="../doc/img/css.jpg" width="100" height="100"/ alt='css logo'>
-<img src="../doc/img/html5.png" width="100" height="100"/ alt='html5 logo'>
+    <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
+    <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
 </p>
 
 
 Descrição das pastas:
 
-* doc: pasta que contém o wireframe, tanto para desktop, quanto para mobile
+* doc: pasta que contém o wireframe, tanto para desktop, quanto para mobile em pdf;
 * src: pasta contém duas outras, templates e static;
 * templates: pasta que contém os códigos de estruturação (.html);
 * static: pasta ontém outras duas, css e img;
