@@ -16,3 +16,6 @@ Descrição das pastas:
 * static: pasta ontém outras duas, css e img;
 * css: pasta que contém os códigos de estilização (.css);
 * img: pasta que contém as imagens referentes ao projeto.
+
+<p>link para youtube </p>
+<a href="">https://youtu.be/qJnTXsYZctE </a>
