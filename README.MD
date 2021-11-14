@@ -19,7 +19,9 @@ Descrição das pastas:
 * css: pasta que contém os códigos de estilização (.css);
 * img: pasta que contém as imagens referentes ao projeto.
 
-<p>link para youtube entrega 1 </p>
+
+<p>link para youtube entrega 1: </p>
 <a href="https://youtu.be/qJnTXsYZctE">https://youtu.be/qJnTXsYZctE </a> 
-<p>link para youtube entrega 2 </p>
+
+<p>link para youtube entrega 2: </p>
 <a href="https://youtu.be/P3GvRuVksdo">https://youtu.be/P3GvRuVksdo </a> 
