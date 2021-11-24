@@ -1,0 +1,249 @@
+body{margin: 0;
+  padding: 0;
+  background-color: rgb(77, 77, 88);
+  font-family: sans-serif;
+  height: auto;
+  position: relative; 
+  width:auto; }
+
+.logo
+  {padding: 5px; 
+  width: 120px;
+  height: 120px;
+  margin-left: 10px;}
+      
+.foto_resp{
+  display: block ;
+  width: 10%;
+  margin: auto;
+  text-align: center;
+  position: relative;
+  top: 50px;
+  border-radius: 10px;}
+
+.lih_1_resp{
+  display: inline-block;
+  box-sizing: border-box;
+  width: 28%;
+  height: 15vh;
+  border-style: none;
+  vertical-align: top;
+  font-size: 1.2em;
+  color: #f8e9ab;
+  text-align: justify;
+  position: relative;
+  top: 75px;
+  margin-left: 36%;
+  text-align: center;}
+
+  .h_fam{
+    display: inline-block;
+    box-sizing: border-box;
+    width: 100%;
+    height: 15vh;
+    border-style: none;
+    font-size: 1.6rem;
+    color: #f8e9ab;
+    text-align: justify;
+    position: relative;
+    top: 30px;
+    text-align: center;
+      
+       }
+
+  .flex-container {
+        display: flex;
+        flex-wrap: wrap;
+        text-align: center;
+        
+      }
+      
+      .flex-item-left {
+        background-color: transparent;
+        padding: 5px;
+        flex: 33.3%;
+        position: relative;
+        margin: 0px 50px 0px ;
+       
+          
+       
+      }
+      
+      .flex-item-center {
+        background-color:transparent;
+        padding: 5px;
+        flex: 33.3%;
+        position: relative;
+        margin: 0px 50px 0px ;
+        
+      }
+      
+      .flex-item-right {
+        background-color: transparent;
+        padding: 5px;
+        flex: 33.3%;
+        position: relative;
+        margin: 0px 50px 0px ;}
+
+ .foto-back{
+    width: 100%;  
+    height: 850px;
+    position:absolute;
+    filter: opacity(0.1);
+    z-index: -1;
+    top: 0px;}
+
+    .redes-sociais{background-color:transparent;
+    position: absolute;
+    top: 830px;
+    margin-left: 50%;
+    padding-top: 30px;
+    display: inline-block;}
+
+    #envelope{background-color:transparent;
+      width: 30px;}
+
+
+       .flex-container {
+        display: flex;
+        flex-wrap: wrap;
+        text-align: center;
+        
+      }
+      
+      .flex-item-left {
+        background-color: transparent;
+        padding: 5px;
+        flex: 33.3%;
+        position: relative;
+        margin: 0px 50px 0px ;
+       
+          
+       
+      }
+      
+      .flex-item-center {
+        background-color:transparent;
+        padding: 5px;
+        flex: 33.3%;
+        position: relative;
+        margin: 0px 50px 0px ;
+        
+      }
+      
+      .flex-item-right {
+        background-color: transparent;
+        padding: 5px;
+        flex: 33.3%;
+        position: relative;
+        margin: 0px 50px 0px ;}*/
+
+        .hcurso1 {margin-left: 2.8%; 
+        color: #f8e9ab;
+        font-size: 1.4rem;
+        position: relative;
+        top: 30px;}
+        
+        
+        .li1{ margin-left: 3%;
+        color: #f8e9ab;
+        margin-right: 10%;
+        top: 60px;
+        position: relative;
+        font-size: 1.2rem;}
+
+
+                     
+
+  @media(max-width:500px)  
+  {
+    .h_fam{
+      display: inline-block;
+      box-sizing: border-box;
+      width: 100%;
+      height: 4.3vh;
+      border-style: none;
+      font-size: 1.3rem;
+      color: #f8e9ab;
+      text-align: justify;
+      position: relative;
+      top: 5px;
+      text-align: center;
+        
+         }     
+    .lih_1_resp{
+      display: block;
+      width: 95%;
+      height: auto;
+      text-align: center;
+      font-size: 1.1rem;
+      position: relative;
+      top: 70px ;
+      margin-left: 10px;}
+
+     
+    .foto_resp{
+      display: block;
+      width: 45%;
+      margin: auto;
+      text-align: center;
+      position: relative;
+      top: 55px; }
+         
+    }
+
+    
+            
+     .foto-back{
+        width: 100%;
+        height: 850px;
+        position:absolute;
+        filter: opacity(0.1);
+        z-index: -1;
+        top: 0px;
+        }
+    
+    .redes-sociais{background-color:transparent;
+        position: absolute;
+        top: 830px;
+        margin-left: 47%;
+        padding-top: 40px; 
+        }
+        .hcurso1 {margin-left: 2.8%; 
+            color: #f8e9ab;;
+            font-size: 1.2rem;
+            position: relative;
+            top: 30px;}
+            
+                
+          
+                .hcurso1 {margin-left: 2.8%; 
+                    color: #f8e9ab;
+                    font-size: 1.2rem;
+                    position: relative;
+                    top: 25px;}
+                
+                    
+                .li1{ margin-left: 1%;
+                    color: #f8e9ab;
+                    margin-right: 10%;
+                    top: 50px;
+                    position: relative;
+                    font-size: 1.1rem;}
+            
+                .hcurso2 {margin-left: 2.8%; 
+                    color: #f8e9ab;
+                    font-size: 1.2rem;
+                    position: relative;
+                    top: 75px;}
+                
+                .li2{ margin-left: 1%;
+                    color: #f8e9ab;
+                    margin-right: 10%;
+                    top: 95px;
+                    position: relative;
+                    font-size: 1.1rem;}
+                                  
+                
+
+    
