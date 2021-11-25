@@ -76,21 +76,21 @@ body{margin: 0;
       
       .flex-item-left {
         background-color: transparent;
-        padding: 3.2px;
+        padding: 3px;
         flex: 33.3%;
         position: relative;
         margin: 0px 50px 0px ;}
       
       .flex-item-center {
         background-color:transparent;
-        padding: 3.2px;
+        padding: 3px;
         flex: 33.3%;
         position: relative;
         margin: 0px 50px 0px ;}
       
       .flex-item-right {
         background-color: transparent;
-        padding: 3.2px;
+        padding: 3px;
         flex: 33.3%;
         position: relative;
         margin: 0px 50px 0px ;}
@@ -211,9 +211,9 @@ body{margin: 0;
                         display: inline-block;
                         box-sizing: border-box;
                         width: 100%;
-                        height: 0.9vh;
+                        height: 0.8vh;
                         border-style: none;
-                        font-size: 1.1rem;
+                        font-size: 0.8rem;
                         color: #f8e9ab;
                         text-align: justify;
                         position: relative;
