@@ -60,7 +60,7 @@ body{margin: 0;
       display: inline-block;
       box-sizing: border-box;
       width: 100%;
-      height: 20vh;
+      height: 15vh;
       border-style: none;
       font-size: 1.5rem;
       color: #f8e9ab;
@@ -196,11 +196,26 @@ body{margin: 0;
                         display: inline-block;
                         box-sizing: border-box;
                         width: 100%;
-                        height: 4vh;
+                        height: 0.8vh;
                         border-style: none;
-                        font-size: 1.2rem;
+                        font-size: 0.8rem;
                         color: #f8e9ab;
                         text-align: justify;
                         position: relative;
                         top: 2px;
                         text-align: center;}}}
+
+                        @media(max-width:740px)  
+                        {
+                        .h_fam{
+                        display: inline-block;
+                        box-sizing: border-box;
+                        width: 100%;
+                        height: 0.8vh;
+                        border-style: none;
+                        font-size: 1.3rem;
+                        color: #f8e9ab;
+                        text-align: justify;
+                        position: relative;
+                        top: 1px;
+                        text-align: center;}}
