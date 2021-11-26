@@ -60,13 +60,13 @@ body{margin: 0;
       display: inline-block;
       box-sizing: border-box;
       width: 100%;
-      height: 15vh;
+      height: 20vh;
       border-style: none;
       font-size: 1.5rem;
       color: #f8e9ab;
       text-align: justify;
       position: relative;
-      top: 60px;
+      top: 12px;
       text-align: center;}
 
       .flex-container {
@@ -156,9 +156,42 @@ body{margin: 0;
                 filter: opacity(0.1);
                 z-index: -1;
                 top: 0px;}
-    
-    
-                    @media(max-width:500px)  
+
+               
+
+                @media(max-width:500px)  
+                {
+                .h_fam{
+                display: inline-block;
+                box-sizing: border-box;
+                width: 100%;
+                height: 0.7vh;
+                border-style: none;
+                font-size: 0.8rem;
+                color: #f8e9ab;
+                text-align: justify;
+                position: relative;
+                top: 1px;
+                text-align: center;}}
+
+               
+
+                @media(max-width:825px)  
+                {
+                .h_fam{
+                display: inline-block;
+                box-sizing: border-box;
+                width: 100%;
+                height: 0.7vh;
+                border-style: none;
+                font-size: 0.8rem;
+                color: #f8e9ab;
+                text-align: justify;
+                position: relative;
+                top: 1px;
+                text-align: center;}}
+
+                @media(max-width:500px)  
                     {        
           
                     .hcurso1 {margin-left: 2.8%; 
@@ -186,36 +219,38 @@ body{margin: 0;
                     margin-right: 10%;
                     top: 70px;
                     position: relative;
-                    font-size: 0.7rem;}
+                    font-size: 0.7rem;}}                     
 
+                    @media(max-width:825px)  
+                    {        
+          
+                    .hcurso1 {margin-left: 2.8%; 
+                    color: #f8e9ab;
+                    font-size: 0.8rem;
+                    position: relative;
+                    top: 25px;}
+                
                     
+                    .li1{ margin-left: 1%;
+                    color: #f8e9ab;
+                    margin-right: 10%;
+                    top: 40px;
+                    position: relative;
+                    font-size: 0.7rem;}
+            
+                    .hcurso2 {margin-left: 2.8%; 
+                    color: #f8e9ab;
+                    font-size: 0.8rem;
+                    position: relative;
+                    top: 50px;}
+                
+                    .li2{ margin-left: 1%;
+                    color: #f8e9ab;
+                    margin-right: 10%;
+                    top: 70px;
+                    position: relative;
+                    font-size: 0.7rem;}}                     
 
-                        @media(max-width:640px)  
-                        {
-                        .h_fam{
-                        display: inline-block;
-                        box-sizing: border-box;
-                        width: 100%;
-                        height: 0.7vh;
-                        border-style: none;
-                        font-size: 0.8rem;
-                        color: #f8e9ab;
-                        text-align: justify;
-                        position: relative;
-                        top: 1px;
-                        text-align: center;}}}
 
-                        @media(max-width:740px)  
-                        {
-                        .h_fam{
-                        display: inline-block;
-                        box-sizing: border-box;
-                        width: 100%;
-                        height: 0.7vh;
-                        border-style: none;
-                        font-size: 0.8rem;
-                        color: #f8e9ab;
-                        text-align: justify;
-                        position: relative;
-                        top: 1px;
-                        text-align: center;}}
+                     
+               
