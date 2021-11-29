@@ -6,7 +6,9 @@
     <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
     <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
     <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white"/>
-    
+    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white"/>
 </p>
 
 
@@ -25,3 +27,6 @@ Descrição das pastas:
 
 <p>link para youtube entrega 2: </p>
 <a href="https://youtu.be/P3GvRuVksdo">https://youtu.be/P3GvRuVksdo </a> 
+
+Link para Heroku, na entrega final:
+<a href="https://rikio.herokuapp.com/">https://rikio.herokuapp.com/ </a> 
